@@ -1,0 +1,19 @@
+body
+{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.banner
+{
+    background-image: url(./img/Minimalism\ background.jpg);
+    padding:100px 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: center;
+
+}
+.skills-padding
+{
+    padding: 80px 0;
+}
